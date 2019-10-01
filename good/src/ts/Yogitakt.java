@@ -1,8 +1,9 @@
 package ts;
 
 public class Yogitakt {
-	public void main(){
+	public void jk(){
 		int a=10;
+		int b=10;
 	}
 
 }
